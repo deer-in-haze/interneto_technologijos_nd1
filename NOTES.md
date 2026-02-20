@@ -1,20 +1,18 @@
 # Projekto darbų planas
 
 ## Paruošimas
-- [ ] Pasirinkti tinklapio temą
-- [ ] Sukurti projekto aplanką
-- [ ] Sukurti GitHub repozitoriją
-- [ ] Pridėti .gitignore
+- [x] Pasirinkti tinklapio temą
+- [x] Sukurti projekto aplanką
+- [x] Sukurti GitHub repozitoriją
+- [x] Pridėti .gitignore
 
 ## Failų ir katalogų struktūra
-- [ ] Sukurti index.html
-- [ ] Sukurti page2.html
-- [ ] Sukurti page3.html
-- [ ] Sukurti css/ katalogą
-- [ ] Sukurti images/ katalogą
-- [ ] Sukurti style.css
-- [ ] Sukurti README.md
-- [ ] Sukurti NOTES.md
+- [X] Sukurti index.html
+- [X] Sukurti sky_events_calendar_page.html
+- [X] Sukurti registration_page.html
+- [X] Sukurti css/ katalogą
+- [X] Sukurti images/ katalogą
+- [X] Sukurti styles.css
 
 ## HTML struktūra
 - [ ] Pridėti H1–H6 antraštes
