@@ -37,7 +37,7 @@ interneto_technologijos_nd1/
     └── placeholder.png
 │
 ├── README.md
-├── NOTES.md
+├── notes.md
 └── .gitignore
 ```
 
