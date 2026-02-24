@@ -111,6 +111,10 @@ body {
     padding: var(--pad-section);
 }
 
+.section-title {
+    padding: var(--pad-xs-y) var(--pad-xs-x);
+}
+
 .container {
     max-width: var(--width-m);
     margin: 0 auto;
