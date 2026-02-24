@@ -1,25 +1,13 @@
 # Projekto darbų planas
 
-## HTML struktūra
-- [x] Pridėti H1–H6 antraštes
-- [x] Pridėti meta SEO žymes
-- [x] Sukurti navigacijos juostą
-- [x] Sujungti puslapius nuorodomis
-
 ## Turinys puslapiuose
-- [x] Pridėti foną
-- [x] Įkelti paveikslėlius
-- [ ] Sukurti lentelę
-- [ ] Sukurti sąrašą (ul/ol)
-- [ ] Sukurti formą (min. 3 elementai)
-- [ ] Pridėti mygtuką submit
+- [x] Sukurti lentelę
+- [x] Sukurti sąrašą (ul/ol)
+- [x] Sukurti formą (min. 3 elementai)
+- [x] Pridėti mygtuką submit
 
 ## CSS stilius
-- [x] Sukurti bendrą stilių
-- [x] Naudoti klases
-- [x] Naudoti id
 - [ ] Nustatyti šriftus
-- [x] Pritaikyti spalvas
 - [ ] Padaryti responsive dizainą
 
 ## Testavimas
@@ -42,6 +30,23 @@
 - [X] Sukurti css/ katalogą
 - [X] Sukurti images/ katalogą
 - [X] Sukurti styles.css
+
+## HTML struktūra
+- [x] Pridėti H1–H6 antraštes
+- [x] Pridėti meta SEO žymes
+- [x] Sukurti navigacijos juostą
+- [x] Sujungti puslapius nuorodomis
+
+## Turinys puslapiuose
+- [x] Pridėti foną
+- [x] Įkelti paveikslėlius
+
+## CSS stilius
+- [x] Sukurti bendrą stilių
+- [x] Naudoti klases
+- [x] Naudoti id
+- [x] Pritaikyti spalvas
+
 
 
 

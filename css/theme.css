@@ -1,6 +1,7 @@
 :root {
     --bg-main: url("../images/main_background.svg");
     --glass-colour: rgba(20, 25, 40, 0.4);
+    --event-circle-colour: rgb(154, 166, 255);
     --glass-colour-hover: rgba(20, 25, 40, 0.6);
 
     --glass-blur: blur(1px);
@@ -14,6 +15,7 @@
     --font-size-s: 0.875rem;
     --font-size-xs: 0.75rem;
 
+    --font-weight-l: 600;
     --font-weight-m: 500;
 
     --pad-m-y: 0.5em;
@@ -25,9 +27,36 @@
     --pad-xs-y: 0.3em;
     --pad-xs-x: 0.6em;
 
+    --pad-section: 3rem 0;
+    --pad-form: 0.6rem 0.7rem;
+    --pad-news: 0.5rem 0.75rem;
+
+    --pad-m: 1.5rem;
+    --pad-s: 1rem;
+    --pad-xs: 0.5rem;
+
+    --margin-l: 3rem;
+    --margin-m: 1.5rem;
+
+    --gap-l: 1.25rem;
+    --gap-m: 0.75rem;
+    --gap-s: 0.35rem;
+
+    --line-height-m: 1.5;
+
+    --width-s: 700px;
+    --width-m: 900px;
+    --width-l: 1200px;
+    --width-xl: 1400px;
+
+    --height-s: 120px;
+    --height-m: 220px;
+
     --glass-border: 1px solid rgba(178, 184, 197, 0.38);
     --glass-border-hover: 1px solid rgba(20, 25, 40, 0.6);
     --glass-border-radius: 10px;
 
     --button-padding: 6px 10px;
+
+    --card-picture-height: 440px;
 }
