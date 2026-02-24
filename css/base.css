@@ -112,7 +112,7 @@ body {
 }
 
 .section-title {
-    padding: var(--pad-xs-y) var(--pad-xs-x);
+    color: transparent;
 }
 
 .container {
