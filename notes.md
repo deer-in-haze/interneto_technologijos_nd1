@@ -1,6 +1,23 @@
+# Projekto pastabos
+
+## Projekto tikslas
+
+Sukurti trijų puslapių informacinę svetainę naudojant HTML5 ir CSS3 pagal
+modulio „Interneto technologijos“ pirmojo namų darbo reikalavimus.
+
+Projekto tema – astronomija ir kosmoso reiškiniai.
+
+---
+
 # Projekto darbų planas
 
-- [ ] Paruošti ataskaitą
+- [x] Paruošti ataskaitą
+- [x] Sukurti tinklapio struktūrą
+- [x] Įgyvendinti dizainą
+- [x] Pritaikyti responsive dizainą
+- [x] Atlikti testavimą
+
+---
 
 # Užbaigti darbai
 
@@ -9,11 +26,11 @@
 - [x] Sukurti projekto aplanką
 - [x] Sukurti GitHub repozitoriją
 - [x] Pridėti .gitignore
-- 
+
 ## Failų ir katalogų struktūra
 - [X] Sukurti index.html
 - [X] Sukurti sky_events_calendar_page.html
-- [X] Sukurti registration_page.html
+- [X] Sukurti suggestion_box_page.html
 - [X] Sukurti css/ katalogą
 - [X] Sukurti images/ katalogą
 - [X] Sukurti styles.css
@@ -44,7 +61,16 @@
 - [x] Patikrinti HTML validatoriuje
 - [x] Patikrinti CSS validatoriuje
 - [x] Ištaisyti klaidas
+---
 
+## Pastabos ir išvados
+
+Projektas buvo kuriamas iteratyviai, naudojant Git versijų kontrolę.
+Didžiausias dėmesys buvo skiriamas struktūrai, dizainui ir
+responsyvumui.
+
+Ateityje projektą galima tobulinti integruojant JavaScript ir
+išorines API (pvz., NASA duomenis).
 
 
 
