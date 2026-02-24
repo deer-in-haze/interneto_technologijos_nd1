@@ -33,8 +33,8 @@ interneto_technologijos_nd1/
 │
 ├── images/
 │   └── logo.svg
-    └── main_background.png
-    └── placeholder.png
+│   └── main_background.png
+│   └── placeholder.png
 │
 ├── README.md
 ├── notes.md
