@@ -253,8 +253,6 @@ body {
     margin-bottom: var(--margin-m);
 }
 
-
-
 .calendar-grid {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
@@ -308,6 +306,36 @@ body {
 }
 
 /* CALENDAR END */
+
+/* EVENTS TABLE */
+
+.events-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: var(--margin-m);
+
+    background: var(--glass-colour);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    overflow: hidden;
+}
+
+.events-table th,
+.events-table td {
+    padding: var(--pad-s);
+    text-align: left;
+    border-bottom: var(--glass-border);
+}
+
+.events-table th {
+    font-weight: var(--font-weight-l);
+    background: var(--glass-colour);
+}
+
+.events-table tr:last-child td {
+    border-bottom: none;
+}
+/* EVENTS TABLE END */
 
 /* SUGGESTION BOX */
 

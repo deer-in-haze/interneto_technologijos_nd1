@@ -1,9 +1,6 @@
 # Projekto darbų planas
 
-## Testavimas
-- [x] Patikrinti HTML validatoriuje
-- [x] Patikrinti CSS validatoriuje
-- [x] Ištaisyti klaidas
+- [ ] Paruošti ataskaitą
 
 # Užbaigti darbai
 
@@ -42,6 +39,12 @@
 - [x] Pritaikyti spalvas
 - [x] Nustatyti šriftus
 - [x] Padaryti responsive dizainą
+
+## Testavimas
+- [x] Patikrinti HTML validatoriuje
+- [x] Patikrinti CSS validatoriuje
+- [x] Ištaisyti klaidas
+
 
 
 
