@@ -1,9 +1,5 @@
 # Projekto darbų planas
 
-## CSS stilius
-- [x] Nustatyti šriftus
-- [x] Padaryti responsive dizainą
-
 ## Testavimas
 - [ ] Patikrinti HTML validatoriuje
 - [ ] Patikrinti CSS validatoriuje
@@ -44,6 +40,8 @@
 - [x] Naudoti klases
 - [x] Naudoti id
 - [x] Pritaikyti spalvas
+- [x] Nustatyti šriftus
+- [x] Padaryti responsive dizainą
 
 
 
