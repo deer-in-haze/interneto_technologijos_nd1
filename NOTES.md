@@ -1,9 +1,9 @@
 # Projekto darbų planas
 
 ## Testavimas
-- [ ] Patikrinti HTML validatoriuje
-- [ ] Patikrinti CSS validatoriuje
-- [ ] Ištaisyti klaidas
+- [x] Patikrinti HTML validatoriuje
+- [x] Patikrinti CSS validatoriuje
+- [x] Ištaisyti klaidas
 
 # Užbaigti darbai
 
