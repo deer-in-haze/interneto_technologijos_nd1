@@ -37,6 +37,7 @@
 
     --margin-l: 3rem;
     --margin-m: 1.5rem;
+    --margin-s: 1rem;
 
     --gap-l: 1.25rem;
     --gap-m: 0.75rem;
@@ -44,13 +45,17 @@
 
     --line-height-m: 1.5;
 
-    --width-s: 700px;
-    --width-m: 900px;
-    --width-l: 1200px;
     --width-xl: 1400px;
+    --width-l: 1200px;
+    --width-m: 900px;
+    --width-s: 700px;
 
-    --height-s: 120px;
     --height-m: 220px;
+    --height-s: 120px;
+
+    --min-height-m: 4rem;
+    --min-height-s: 3rem;
+
 
     --glass-border: 1px solid rgba(178, 184, 197, 0.38);
     --glass-border-hover: 1px solid rgba(20, 25, 40, 0.6);

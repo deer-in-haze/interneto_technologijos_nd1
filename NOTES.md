@@ -1,14 +1,8 @@
 # Projekto darbų planas
 
-## Turinys puslapiuose
-- [x] Sukurti lentelę
-- [x] Sukurti sąrašą (ul/ol)
-- [x] Sukurti formą (min. 3 elementai)
-- [x] Pridėti mygtuką submit
-
 ## CSS stilius
-- [ ] Nustatyti šriftus
-- [ ] Padaryti responsive dizainą
+- [x] Nustatyti šriftus
+- [x] Padaryti responsive dizainą
 
 ## Testavimas
 - [ ] Patikrinti HTML validatoriuje
@@ -40,6 +34,10 @@
 ## Turinys puslapiuose
 - [x] Pridėti foną
 - [x] Įkelti paveikslėlius
+- [x] Sukurti lentelę
+- [x] Sukurti sąrašą (ul/ol)
+- [x] Sukurti formą (min. 3 elementai)
+- [x] Pridėti mygtuką submit
 
 ## CSS stilius
 - [x] Sukurti bendrą stilių
