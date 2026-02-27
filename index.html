@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to main content</a>
 <nav class="navbar">
   <div class="nav-container">
     <a class="brand" href="./index.html">
@@ -37,104 +38,106 @@
   </div>
 </nav>
 
-<header id="homepage-hero">
+<main id="main">
+  <header id="homepage-hero">
 
-  <div class="hero-container hero-text">
-    <h1 class="hero-title">
-      Explore the universe.
-    </h1>
+    <div class="hero-container hero-text">
+      <h1 class="hero-title">
+        Explore the universe.
+      </h1>
 
-    <div class="hero-links">
-      <a href="./sky_events_calendar_page.html">Events</a>
-      <span>|</span>
+      <div class="hero-links">
+        <a href="./sky_events_calendar_page.html">Events</a>
+        <span>|</span>
 
-      <a href="https://www.nasa.gov/images/">Images</a>
-      <span>|</span>
+        <a href="https://www.nasa.gov/images/">Images</a>
+        <span>|</span>
 
-      <a href="https://data.nasa.gov/">Data</a>
+        <a href="https://data.nasa.gov/">Data</a>
+      </div>
+
     </div>
 
-  </div>
+    <div id="hero-news" class="hero-news">
+      <h2 class="hero-news-title">Latest space news</h2>
+      <ul class="hero-news-list" id="hero-news-list">
+        <li class="hero-news-item">Placeholder news article 1</li>
+        <li class="hero-news-item">Placeholder news article 2</li>
+        <li class="hero-news-item">Placeholder news article 3</li>
+      </ul>  </div>
 
-  <div id="hero-news" class="hero-news">
-    <h2 class="hero-news-title">Latest space news</h2>
-    <ul class="hero-news-list" id="hero-news-list">
-      <li class="hero-news-item">Placeholder news article 1</li>
-      <li class="hero-news-item">Placeholder news article 2</li>
-      <li class="hero-news-item">Placeholder news article 3</li>
-    </ul>  </div>
+  </header>
 
-</header>
+  <section id="homepage-cards" class="section">
+    <h2 class="section-title">Features</h2>
 
-<section id="homepage-cards" class="section">
-  <h2 class="section-title">Features</h2>
+    <div class="container">
+      <div class="card-grid">
+        <article class="card">
+          <img
+                  class="card-media"
+                  src="images/placeholder.png"
+                  alt=""
+          >
 
-  <div class="container">
-    <div class="card-grid">
-      <article class="card">
-        <img
-                class="card-media"
-                src="images/placeholder.png"
-                alt="Coming soon!"
-        >
+          <div class="card-body">
+            <h3 class="card-title">Moon phase</h3>
+            <p class="card-text">Placeholder: current moonphase</p>
 
-        <div class="card-body">
-          <h3 class="card-title">Moon phase</h3>
-          <p class="card-text">Placeholder: current moonphase</p>
+            <ul class="card-list">
+              <li>Illumination: -</li>
+              <li>Age: -</li>
+              <li>Next full moon: -</li>
+            </ul>
 
-          <ul class="card-list">
-            <li>Illumination: -</li>
-            <li>Age: -</li>
-            <li>Next full moon: -</li>
-          </ul>
-
-          <a href="sky_events_calendar_page.html" class="btn btn-primary">
-            Sky Events Calendar (SKYCAL)
-          </a>
-        </div>
-      </article>
-
-      <article class="card">
-        <img
-                class="card-media"
-                src="images/placeholder.png"
-                alt="Coming soon!"
-        >
-        <div class="card-body">
-          <h3 class="card-title">VirtualSky</h3>
-          <p class="card-text">
-            Placeholder: browser-based planetarium that lets you explore stars, constellations and planets.
-          </p>
-
-          <a href="./index.html" class="btn btn-primary">
-            Coming soon!
-          </a>
-        </div>
-      </article>
-
-      <article class="card" id="apod-card">
-        <img
-                class="card-media"
-                src="images/placeholder.png"
-                alt="Coming soon!"
-        >
-
-        <div class="card-body">
-          <h3 class="card-title">NASA APOD (Last 7 Days)</h3>
-          <p class="card-text">Placeholder: latest astronomy picture preview.</p>
-
-          <div class="card-meta">
-            <span class="meta">Date: -</span>
-            <a class="meta-link" href="https://apod.nasa.gov/apod/astropix.html" target="_blank" rel="noopener">
-              Open NASA gallery
+            <a href="sky_events_calendar_page.html" class="btn btn-primary">
+              Sky Events Calendar (SKYCAL)
             </a>
           </div>
-        </div>
-      </article>
+        </article>
 
+        <article class="card">
+          <img
+                  class="card-media"
+                  src="images/placeholder.png"
+                  alt=""
+          >
+          <div class="card-body">
+            <h3 class="card-title">VirtualSky</h3>
+            <p class="card-text">
+              Placeholder: browser-based planetarium that lets you explore stars, constellations and planets.
+            </p>
+
+            <a href="./index.html" class="btn btn-primary">
+              Coming soon!
+            </a>
+          </div>
+        </article>
+
+        <article class="card" id="apod-card">
+          <img
+                  class="card-media"
+                  src="images/placeholder.png"
+                  alt=""
+          >
+
+          <div class="card-body">
+            <h3 class="card-title">NASA APOD (Last 7 Days)</h3>
+            <p class="card-text">Placeholder: latest astronomy picture preview.</p>
+
+            <div class="card-meta">
+              <span class="meta">Date: -</span>
+              <a class="meta-link" href="https://apod.nasa.gov/apod/astropix.html" target="_blank" rel="noopener">
+                Open NASA gallery
+              </a>
+            </div>
+          </div>
+        </article>
+
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+</main>
 
 </body>
 </html>
