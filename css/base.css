@@ -454,5 +454,23 @@ textarea:focus-visible {
     white-space: nowrap;
 }
 
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    padding: 0.6rem 0.8rem;
+    background: rgba(20, 25, 40, 0);
+    color: var(--text-main);
+    border: var(--glass-border);
+    border-radius: var(--glass-border-radius);
+    z-index: 9999;
+}
+
+.skip-link:focus {
+    left: 50%;
+    top: 1rem;
+    transform: translateX(-50%);
+}
+
 /* ACCESSIBILITY END*/
 
