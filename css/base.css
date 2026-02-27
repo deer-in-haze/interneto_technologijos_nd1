@@ -73,6 +73,7 @@ body {
 
 .hero-text {
     text-align: center;
+    padding-top: var(--pad-l)
 }
 
 .hero-text a{
